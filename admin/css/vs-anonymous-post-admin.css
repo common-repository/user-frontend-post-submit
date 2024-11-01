@@ -1,0 +1,33 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+.titlediv {
+    position: relative;
+    margin-bottom: 20px;
+}
+#poststuff .titlewrap{
+    order: 0 none;
+    padding: 0;
+}
+.titlediv .title-prompt-text {
+    color: #777;
+    font-size: 1em;
+    padding: 11px 10px;
+}
+.titlediv .title {
+    background-color: #fff;
+    font-size: 1em;
+    height: 2.5em;
+    line-height: 100%;
+    margin: 0;
+    outline: 0 none;
+    padding: 3px 8px;
+    width: 100%;
+    margin-left: 10px;
+}
+#publishing-action{
+    float: left;
+    margin-left: 50px;
+}

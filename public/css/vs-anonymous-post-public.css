@@ -1,0 +1,10 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+.captcha{
+    display: block;
+    height:25px;
+    width:65px;
+}
